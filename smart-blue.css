@@ -82,6 +82,10 @@
   color: #595959;
 }
 
+.markdown-body img {
+  max-width: 100%;
+}
+
 /* 已加载图片 */
 .markdown-body img.loaded {
   margin: 0 auto;
