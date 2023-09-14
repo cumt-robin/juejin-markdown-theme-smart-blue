@@ -186,6 +186,10 @@
   background-color: #f6f8fa;
 }
 
+/*
+  From: icewolf-sec (御坂19008号)
+  Description: 新增HTML5 <kbd> 键盘文字标签样式
+*/
 .markdown-body kbd{
   color: white;
   background-color: #135ce0;
